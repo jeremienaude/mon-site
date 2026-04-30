@@ -1,0 +1,56 @@
+baseURL = 'https://jeremie-naude.fr/'
+defaultContentLanguage = 'fr'
+title = 'Jérémie Naudé'
+theme = 'PaperMod'
+
+[params]
+  description = "Chercheur CNRS en neurosciences expérimentales et théoriques"
+  author = "Jérémie Naudé"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowBreadCrumbs = true
+
+[params.profileMode]
+    enabled = true
+    title = "Jérémie Naudé"
+    subtitle = """Chercheur CNRS en neurosciences · [Institut de Génomique Fonctionnelle](https://www.igf.cnrs.fr/equipes/equipe-perroy/), Montpellier.
+J'étudie les mécanismes impliqués dans l'apprentissage et des prises décisions: la neuromodulation (dopamine, noradrénaline) et la plasticité neuronale, en combinant modélisation mathématique et expérimentation."""
+    imageUrl = "/images/photojn.jpg"
+    imageWidth = 180
+    imageHeight = 180
+    imageTitle = "Jérémie Naudé"
+
+
+  [[params.socialIcons]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/jeremie-n.bsky.social"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:jeremie.naude@igf.cnrs.fr"
+
+
+[menu]
+  [[menu.main]]
+    name = "Recherche"
+    url = "/recherche/"
+    weight = 1
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+  [[menu.main]]
+    name = "Vulgarisation"
+    url = "/vulgarisation/"
+    weight = 3
+  [[menu.main]]
+    name = "A cause du cerveau ?"
+    url = "/livre/"
+    weight = 4
+  [[menu.main]]
+    name = "Billets"
+    url = "/blog/"
+    weight = 5
+  [[menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 6

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 2rem 1rem;">
+  {{ with site.Params.profileMode.imageUrl }}
+    <img src="{{ . }}" alt="{{ $.Site.Params.profileMode.imageTitle }}" 
+         style="width: {{ site.Params.profileMode.imageWidth | default 180 }}px; height: {{ site.Params.profileMode.imageHeight | default 180 }}px; border-radius: 50%; margin-bottom: 1rem;" />
+  {{ end }}
+  <h1 style="margin: 0.5rem 0;">{{ site.Params.profileMode.title }}</h1>
+  <p style="max-width: 560px;">{{ site.Params.profileMode.subtitle | markdownify }}</p>
+</div>
+
+<div style="max-width: 900px; margin: 3rem auto; padding: 0 1rem; display: flex; gap: 2rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <!-- Espace libre pour un texte d'accroche ou les derniers billets de blog plus tard -->
+  </div>
+  <div style="width: 350px; flex-shrink: 0;">
+    <h3 style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: #888; margin-bottom: 0.75rem;">Sur Bluesky</h3>
+    {{ .Content }}
+  </div>
+</div>
+
+{{ partial "footer.html" . }}
+{{ end }}

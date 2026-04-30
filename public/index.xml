@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Accueil on Jérémie Naudé</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Accueil on Jérémie Naudé</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Chargé de recherche au CNRS, je travaille à l&amp;rsquo;&lt;a href=&#34;https://www.igf.cnrs.fr/&#34;&gt;Institut de Génomique Fonctionnelle&lt;/a&gt; à Montpellier. Ma recherche porte sur les neuromodulateurs comme la dopamine (mais aussi la noradrénaline ou l&amp;rsquo;acétylcholine), la plasticité neuronale (synaptique et intrinsèque) et la prise de décision. Je construis des modèles théoriques (réseaux de neurones, apprentissage par renforcement) contraints par les données expérimentales et je teste les prédictions des modèles, notamment chez le rongeur (électrophysiologie, pharmacogénétique, optogénétique, imagerie). Je collabore avec des collègues théoricien-nes (maths, physique, info, robotique) et expérimentateur-ices (approches in vitro et in vivo).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/livre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/livre/</guid>
+      <description>&lt;p&gt;A venir en octobre 2026.&lt;/p&gt;
+&lt;p&gt;Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Billets</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;p&gt;Blog à venir.&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
