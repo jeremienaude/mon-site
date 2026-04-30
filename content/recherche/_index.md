@@ -8,11 +8,11 @@ Je suis chargé de recherche CNRS dans l'équipe Physiopathologie de la transmis
 ![L'équipe](/images/equipe.jpg)
 
 Comment les décisions émergent-elles des interactions moléculaires dans les neurones et les synapses ? Cette question fondamentale reste non résolue, car elle nécessite de franchir un fossé théorique et méthodologique entre trois niveaux d'organisation : les voies de signalisation intracellulaire, la dynamique électrique des réseaux neuronaux, et les fonctions cognitives. Les approches actuelles se spécialisent sur un niveau : les neurosciences moléculaires étudient les signalisations in vitro, les neurosciences des systèmes enregistrent l'activité neuronale pendant les comportements, et les neurosciences computationnelles modélisent les décisions par des algorithmes abstraits. Chaque niveau d’organisation est approché avec ses propres outils, vocabulaires et théories, rendant l'intégration difficile. 
-Dans mes travaux, j'ai développé des théories dynamique et computationnelles, basées sur les assemblées de neurones. Ces assemblées sont construites par la plasticité synaptique et modulées dynamiquement. Ce cadre offre un langage commun pour relier les niveaux moléculaire, de réseau et cognitif.
+Dans nos travaux, nous avons développé des théories dynamique et computationnelles, basées sur les assemblées de neurones. Ces assemblées sont construites par la plasticité synaptique et modulées dynamiquement. Ce cadre offre un langage commun pour relier les niveaux moléculaire, de réseau et cognitif.
 
-Mon approche se distingue par trois aspects : 
-1. Intégration méthodologique : Je combine modélisation, expériences in vivo, et comportement quantitatif. Cette polyvalence me permet de concevoir des projets où la modélisation guide les expériences et où les données contraignent les modèles. 
-2. Approche multi-échelles : Contrairement aux approches "bottom-up" (partir des molécules) ou "top-down" (partir du comportement), je travaille simultanément aux trois niveaux, en utilisant les contraintes de chaque niveau pour informer les autres. 
+Notre approche se distingue par trois aspects : 
+1. Intégration méthodologique : nous combinons modélisation, expériences in vivo, et comportement quantitatif. Cette polyvalence nous permet de concevoir des projets où la modélisation guide les expériences et où les données contraignent les modèles. 
+2. Approche multi-échelles : Contrairement aux approches "bottom-up" (partir des molécules) ou "top-down" (partir du comportement), nous travaillons simultanément aux trois niveaux, en utilisant les contraintes de chaque niveau pour informer les autres. 
 3. Théories testables : nos modèles génèrent des prédictions quantitatives et qualitatives sur l’effet de perturbations du substrat biologique, qui sont ensuite testées expérimentalement.
 
 ---
@@ -37,7 +37,7 @@ Les décisions conjointent intègrent les attentes concernant les décisions de 
 **Dynamique moléculaire liée à l'apprentissage, ANR LEARN**
 La signalisation moléculaire impliquée dans la plasticité synaptique comprend des messagers précoces qui convergent vers des protéines kinases intégratrices. Ces voies interagissent de manière dynamique, au cours de l’apprentissage, et déclenchent ou non une plasticité synaptique dans des ensembles neuronaux. Nous étudions cette dynamique à l’aide biosenseurs par de la microscopie in vitro et in vivo, que nous comparons avec des modèles mathématiques de la dynamique moléculaire.
 
-*Financement ANR avec l'équipe (Julie Perroy, Pierre Vincent, Vivien Szabo, Enora Moutin, Nathalie Bouqier, Cathie Ventalon).*
+*Financement ANR avec l'équipe (Julie Perroy, Pierre Vincent, Vivien Szabo, Enora Moutin, Nathalie Bouquier, Cathie Ventalon).*
 
 ---
 
