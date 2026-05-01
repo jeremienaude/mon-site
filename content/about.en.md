@@ -10,7 +10,7 @@ As a research fellow at the CNRS, I work at the [Institute of Functional Genomic
 
 ### Contact
 
- jeremie.naude at gf.cnrs.fr
+ jeremie.naude at igf.cnrs.fr
 
 ---
 

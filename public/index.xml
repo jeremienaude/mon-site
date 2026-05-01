@@ -6,20 +6,33 @@
     <description>Recent content in Accueil on Jérémie Naudé</description>
     <generator>Hugo</generator>
     <language>fr</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site internet</title>
+      <link>http://localhost:1313/news/test/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/test/</guid>
+      <description>Lancement du site :o</description>
+    </item>
     <item>
       <title>À propos</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Chargé de recherche au CNRS, je travaille à l&amp;rsquo;&lt;a href=&#34;https://www.igf.cnrs.fr/&#34;&gt;Institut de Génomique Fonctionnelle&lt;/a&gt; à Montpellier. Ma recherche porte sur les neuromodulateurs comme la dopamine (mais aussi la noradrénaline ou l&amp;rsquo;acétylcholine), la plasticité neuronale (synaptique et intrinsèque) et la prise de décision. Je construis des modèles théoriques (réseaux de neurones, apprentissage par renforcement) contraints par les données expérimentales et je teste les prédictions des modèles, notamment chez le rongeur (électrophysiologie, pharmacogénétique, optogénétique, imagerie). Je collabore avec des collègues théoricien-nes (maths, physique, info, robotique) et expérimentateur-ices (approches in vitro et in vivo).&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/photojn.jpg&#34; style=&#34;width: 200px; height: 200px; border-radius: 50%; object-fit: cover; flex-shrink: 0;&#34; /&gt;
+  &lt;h3 style=&#34;margin: 0;&#34;&gt; Contact : jeremie.naude at igf.cnrs.fr
+&lt;/h3&gt;
+&lt;/div&gt;
+&lt;p&gt;Jérémie Naudé est chargé de recherche au CNRS, à l&amp;rsquo;Institut de Génomique Fonctionnelle de Montpellier, où il co-dirige l&amp;rsquo;équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  &amp;ldquo;cerveau-environnement&amp;rdquo;, façonnées par l&amp;rsquo;expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd&amp;rsquo;hui au conseil d&amp;rsquo;administration de la Société des Neurosciences, où il représente les neurosciences théoriques. Il intervient parfois dans le débat public (tribunes au Monde, interventions dans Slate, L&amp;rsquo;Express, ou Sciences et Vie) sur ce que les neurosciences disent des comportements, et ce qu&amp;rsquo;on leur fait parfois dire à tort. Un scientifique exerce forcément des effets sur la société dans laquelle il vit. Se prétendre apolitique ou neutre, c&amp;rsquo;est prendre position pour le statu quo. Il faut donc refuser les injonctions à l&amp;rsquo;auto-censure, qui entretiennent une confusion entre la neutralité politique (qui n&amp;rsquo;existe pas) et l&amp;rsquo;idéal d&amp;rsquo;objectivité de la démarche scientifique.&lt;/p&gt;</description>
     </item>
     <item>
       <title>À propos</title>
       <link>http://localhost:1313/livre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/livre/</guid>
-      <description>&lt;p&gt;A venir en octobre 2026.&lt;/p&gt;
+      <description>&lt;p&gt;A venir, pour l&amp;rsquo;automne 2026.&lt;/p&gt;
 &lt;p&gt;Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com&lt;/p&gt;
 &lt;hr&gt;</description>
     </item>
@@ -28,8 +41,35 @@
       <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/</guid>
-      <description>&lt;p&gt;Blog à venir.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;billets-de-blog-à-venir&#34;&gt;Billets de blog à venir.&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;initialement-publiés-comme-fils-sur-twitter&#34;&gt;Initialement publiés comme fils sur Twitter&lt;/h3&gt;
 &lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Conférences et Rencontres</title>
+      <link>http://localhost:1313/conf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conf/</guid>
+      <description>&lt;h3 id=&#34;prochaines-rencontres&#34;&gt;Prochaines rencontres&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A venir !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conférences-grand-public&#34;&gt;Conférences grand public&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2017-2021 : Comité d’organisation d’Ile-de-France de la Semaine du Cerveau&lt;/li&gt;
+&lt;li&gt;2018-2020 : Animations scientifiques à la Cité des Sciences (Semaine du Cerveau).&lt;/li&gt;
+&lt;li&gt;2018 : Cerveau sous influence : exposition à l&amp;rsquo;ESPCI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interventions-scolaires&#34;&gt;Interventions scolaires&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Interventions en collège · Dopamine et addiction · Semaine du Cerveau Montpellier&lt;/li&gt;
+&lt;li&gt;Interventions en collège et lycées · Dopamine et addiction · Semaine du Cerveau Paris&lt;/li&gt;
+&lt;li&gt;Interventions en primaire · La &amp;ldquo;valise du cerveau&amp;rdquo; · Semaine du Cerveau Montpellier&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;une-demande-de-conférence-ou-de-rencontre-&#34;&gt;Une demande de conférence ou de rencontre ?&lt;/h3&gt;
+&lt;p&gt;jeremie.naude at igf.cnrs.fr&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

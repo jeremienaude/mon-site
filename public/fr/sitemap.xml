@@ -42,6 +42,10 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/conf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+  </url><url>
     <loc>http://localhost:1313/publications/</loc>
     <xhtml:link
                 rel="alternate"

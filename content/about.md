@@ -2,18 +2,19 @@
 title: "À propos"
 draft: false
 ShowReadingTime: false
+hidemeta: true
 ---
 
-Chargé de recherche au CNRS, je travaille à l'[Institut de Génomique Fonctionnelle](https://www.igf.cnrs.fr/) à Montpellier. Ma recherche porte sur les neuromodulateurs comme la dopamine (mais aussi la noradrénaline ou l'acétylcholine), la plasticité neuronale (synaptique et intrinsèque) et la prise de décision. Je construis des modèles théoriques (réseaux de neurones, apprentissage par renforcement) contraints par les données expérimentales et je teste les prédictions des modèles, notamment chez le rongeur (électrophysiologie, pharmacogénétique, optogénétique, imagerie). Je collabore avec des collègues théoricien-nes (maths, physique, info, robotique) et expérimentateur-ices (approches in vitro et in vivo).
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
+  <img src="/images/photojn.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; flex-shrink: 0;" />
+  <h3 style="margin: 0;"> Contact : jeremie.naude at igf.cnrs.fr
+</h3>
+</div>
 
+Jérémie Naudé est chargé de recherche au CNRS, à l'Institut de Génomique Fonctionnelle de Montpellier, où il co-dirige l'équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  "cerveau-environnement", façonnées par l'expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd'hui au conseil d'administration de la Société des Neurosciences, où il représente les neurosciences théoriques. Il intervient parfois dans le débat public (tribunes au Monde, interventions dans Slate, L'Express, ou Sciences et Vie) sur ce que les neurosciences disent des comportements, et ce qu'on leur fait parfois dire à tort. Un scientifique exerce forcément des effets sur la société dans laquelle il vit. Se prétendre apolitique ou neutre, c'est prendre position pour le statu quo. Il faut donc refuser les injonctions à l'auto-censure, qui entretiennent une confusion entre la neutralité politique (qui n'existe pas) et l'idéal d'objectivité de la démarche scientifique.
 
-En dehors du labo, j'interviens en vulgarisation scientifique (scolaires, podcasts, presse) et je suis actif sur [Bluesky](https://bsky.app/profile/jeremie-n.bsky.social).
+Il est actif sur [Bluesky](https://bsky.app/profile/jeremie-n.bsky.social).
 
----
-
-### Contact
-
- jeremie.naude at gf.cnrs.fr
 
 ---
 

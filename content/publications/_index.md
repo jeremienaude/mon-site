@@ -21,8 +21,8 @@ cérébrale individuelle.
 [lire ↗](https://www.nature.com/articles/s41586-026-10301-4)
 
 **Direct and indirect striatal projecting neurons exert strategy-dependent effects on decision-making** · *Science Advances* · 2025
-Rodriguez, E. C.*, Naudé, J.*, Rial, D., & de Kerchove d’Exaerde, A.
-Nous proposons que les sous-populations neuronales du striatum influencent différents paramètres de calculs liés aux prises de décision, ce qui permet de générer différents profils de stratégies.
+Rodriguez, E. C.#, Naudé, J.#, Rial, D., & de Kerchove d’Exaerde, A.
+Nous proposons que les sous-populations neuronales du striatum influencent différents paramètres de calculs liés aux prises de décision, ce qui permet de générer différents profils de stratégies. # co-1ers
 [lire ↗](https://www.science.org/doi/10.1126/sciadv.adq0484)
 
 **Dopamine builds and reveals reward-associated latent behavioral

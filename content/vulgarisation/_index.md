@@ -48,14 +48,6 @@ ShowReadingTime: false
 
 ---
 
-### Interventions scolaires & conférences grand public
-
-- Interventions en collège · Dopamine et addiction · Semaine du Cerveau Montpellier
-- 2017-2021 : Comité d’organisation d’Ile-de-France de la Semaine du Cerveau
-- 2018-2020 : Animations scientifiques à la Cité des Sciences (Semaine du Cerveau).
-
----
-
 ### Société des Neurosciences
 
 Je contribue aussi à la rédaction des *Highlights*, la sélection annuelle des avancées marquantes en neurosciences et aux actualités mensuelles de la [Société des Neurosciences](https://www.neurosciences.asso.fr/).
