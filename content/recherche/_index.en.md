@@ -24,7 +24,7 @@ Our approach is characterized by three key aspects:
 **Cognitive Flexibility, FRM Team**
 Animals must learn quickly when their environment changes, but slow down their learning rate when the consequences of their actions provide little information. Our goal is to assess how this adaptive learning arises from the trade-off between synaptic plasticity and stability, from the molecular level to the level of neural networks. We combine behavioral recordings and manipulations in mice with modeling at the synaptic and network levels.
 
-*The team has been designated by the French Medical Research Foundation (Fondation pour la Recherche Médicale) for this project.*
+*The team has been awarded by the French Medical Research Foundation (Fondation pour la Recherche Médicale) for this project.*
 
 **Neural Bases of Timing, ANR TimeTag**
 Deciding when to act is as important as deciding what to do. Cortical neurons fire just before well-timed decisions are made. How does such precise activity emerge? Is this activity a cause or a consequence of synchronization? We use selective and reversible inactivation of neural ensembles (using inducible c-fos technology) during the production of a timed behavior to compare and select competing models.
@@ -59,6 +59,7 @@ The molecular signaling involved in synaptic plasticity includes early messenger
 - Eric Burguière, Lyon.
 - Fabien Campillo, Montpellier.
 - Etienne Coutureau, Bordeaux.
+- Laurent Givalois, Montpellier
 - Philippe Faure, Paris.
 - Emmanuel Périsse, Montpellier. 
 - Emmanuel Procyk, Lyon.

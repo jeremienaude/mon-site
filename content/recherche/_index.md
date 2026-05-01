@@ -57,6 +57,7 @@ La signalisation moléculaire impliquée dans la plasticité synaptique comprend
 - Eric Burguière, Lyon.
 - Fabien Campillo, Montpellier.
 - Etienne Coutureau, Bordeaux.
+- Laurent Givalois, Montpellier
 - Philippe Faure, Paris.
 - Emmanuel Périsse, Montpellier. 
 - Emmanuel Procyk, Lyon.

@@ -62,11 +62,20 @@ defaultContentLanguageInSubdirectory = false
   ShowShareButtons = false
   ShowBreadCrumbs = true
 
-[params.profileMode]
+[languages.fr.params.profileMode]
     enabled = true
     title = "Jérémie Naudé"
     subtitle = """Chercheur CNRS en neurosciences · [Institut de Génomique Fonctionnelle](https://www.igf.cnrs.fr/equipes/equipe-perroy/), Montpellier.
 J'étudie les mécanismes impliqués dans l'apprentissage et des prises décisions: la neuromodulation (dopamine, noradrénaline) et la plasticité neuronale, en combinant modélisation mathématique et expérimentation."""
+    imageUrl = "/images/photojn.jpg"
+    imageWidth = 180
+    imageHeight = 180
+    imageTitle = "Jérémie Naudé"
+
+[languages.en.params.profileMode]
+    enabled = true
+    title = "Jérémie Naudé"
+    subtitle = """CNRS Neuroscience Research Fellow · [Institute of Functional Genomics](https://www.igf.cnrs.fr/equipes/equipe-perroy/), Montpellier. I study the mechanisms involved in learning and decision-making, specifically neuromodulation (dopamine, noradrenaline) and neural plasticity, by combining mathematical modeling with experimental tools."""
     imageUrl = "/images/photojn.jpg"
     imageWidth = 180
     imageHeight = 180
