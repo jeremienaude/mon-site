@@ -14,7 +14,7 @@ ShowReadingTime: false
 
 ### Sélection récente
 
-**Dopaminergic mechanisms of dynamical social specialization** · *Nature* · 2025
+**Dopaminergic mechanisms of dynamical social specialization** · *Nature* · 2026
 Solié C., et al.
 Nous avons montré que le cerveau de souris en groupe s'adapte au rôle social adopté : l'expérience du groupe façonne à la fois le comportement et l’activité
 cérébrale individuelle.

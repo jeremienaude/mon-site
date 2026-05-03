@@ -85,7 +85,7 @@ J'étudie les mécanismes impliqués dans l'apprentissage et des prises décisio
     enabled = true
     title = "Jérémie Naudé"
     subtitle = """CNRS Neuroscience Research Fellow · [Institute of Functional Genomics](https://www.igf.cnrs.fr/equipes/equipe-perroy/), Montpellier. I study the mechanisms involved in learning and decision-making, specifically neuromodulation (dopamine, noradrenaline) and neural plasticity, by combining mathematical modeling with experimental tools."""
-    imageUrl = "/images/accueil2.jpg"
+    imageUrl = "/images/rencontres.jpg"
     imageWidth = 180
     imageHeight = 180
     imageTitle = "Jérémie Naudé"

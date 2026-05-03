@@ -4,16 +4,6 @@ draft: false
 ShowReadingTime: false
 
 ---
-### Podcast, Radio ou Vidéos
-- Un format long où j'explique notre article de 2024 Naudé al. dans Nature Communications : [écouter ↗](https://www.umontpellier.fr/articles/a-lum-la-science-s04-ep16-les-plans-caches-de-la-dopamine)
-
-
-- Quelques réponses à Sabine (@lasabz_) sur la "Dopamine Detox" [regarder ↗](https://www.youtube.com/watch?v=jfU2KunUUUc)
-
-- un court passage ici sur la génétique du QI [regarder ↗](https://www.arretsurimages.net/emissions/proxy/proxy-pourquoi-la-presse-inde-demande-t-elle-toujours-des-sous)
-
-
----
 
 ### Communiqués de Presse
 - Sur les mécanismes de spécialisation sociale liés à la dopamine : [lire ↗](https://www.cnrs.fr/fr/presse/le-role-social-des-individus-nest-ni-predestine-ni-fige)
@@ -22,9 +12,19 @@ ShowReadingTime: false
 
 - Sur la façon dont les animaux peuvent régler leur propre degré de décisions aléatoires : [lire ↗](https://www.insb.cnrs.fr/fr/cnrsinfo/le-cerveau-joue-t-il-aux-des)
 
-- Deux communiqués sur notre théorie des deux rôles de la dopamine dans l'apprentissage et la motivation [lire ↗](https://sciences.sorbonne-universite.fr/actualites/dopamine-et-motivation-une-avancee-scientifique-sur-les-mecanismes-cerebraux-de-laction) et [lire aussi ↗](https://www.insb.cnrs.fr/fr/cnrsinfo/de-lapprentissage-laction-la-dopamine-revele-nos-apprentissages-caches)
+- Deux communiqués sur notre théorie des rôles de la dopamine dans l'apprentissage et la motivation [lire ↗](https://sciences.sorbonne-universite.fr/actualites/dopamine-et-motivation-une-avancee-scientifique-sur-les-mecanismes-cerebraux-de-laction) et [lire aussi ↗](https://www.insb.cnrs.fr/fr/cnrsinfo/de-lapprentissage-laction-la-dopamine-revele-nos-apprentissages-caches)
 
 - Un article plus ancien sur dopamine, acétylcholine et incertitude [lire ↗](https://www.ibps.sorbonne-universite.fr/fr/actus/actus/6646,philippe-faure)
+
+---
+
+### Podcast, Radio ou Vidéos
+- Un format long où j'explique notre théories sur les rôles de la dopamine dans l'apprentissage et les décisions (Naudé al. 2024, Nature Communications) : [écouter ↗](https://www.umontpellier.fr/articles/a-lum-la-science-s04-ep16-les-plans-caches-de-la-dopamine)
+
+
+- Quelques réponses à Sabine (@lasabz_) sur la "Dopamine Detox" [regarder ↗](https://www.youtube.com/watch?v=jfU2KunUUUc)
+
+- Un court passage ici sur la génétique du QI [regarder ↗](https://www.arretsurimages.net/emissions/proxy/proxy-pourquoi-la-presse-inde-demande-t-elle-toujours-des-sous)
 
 
 ---
@@ -52,5 +52,5 @@ ShowReadingTime: false
 
 Je contribue aussi à la rédaction des *Highlights*, la sélection annuelle des avancées marquantes en neurosciences et aux actualités mensuelles de la [Société des Neurosciences](https://www.neurosciences.asso.fr/).
 
-- Livret * Highlights* · [édition 2025 ↗](URL) · [édition 2024 ↗](https://www.neurosciences.asso.fr/wp-content/uploads/2025/03/Faits-marquants-2024.pdf)
+- Livret *Highlights* · [édition 2025 ↗](URL) · [édition 2024 ↗](https://www.neurosciences.asso.fr/wp-content/uploads/2025/03/Faits-marquants-2024.pdf)
 - Actualités mensuelles · [lire ↗](https://www.neurosciences.asso.fr/tag/actualite/)

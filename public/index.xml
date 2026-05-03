@@ -16,6 +16,14 @@
       <description>Lancement du site :o</description>
     </item>
     <item>
+      <title>À cause du cerveau ?</title>
+      <link>http://localhost:1313/livre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/livre/</guid>
+      <description>&lt;p&gt;Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
       <title>À propos</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,25 +33,19 @@
   &lt;h3 style=&#34;margin: 0;&#34;&gt; Contact : jeremie.naude at igf.cnrs.fr
 &lt;/h3&gt;
 &lt;/div&gt;
-&lt;p&gt;Jérémie Naudé est chargé de recherche au CNRS, à l&amp;rsquo;Institut de Génomique Fonctionnelle de Montpellier, où il co-dirige l&amp;rsquo;équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  &amp;ldquo;cerveau-environnement&amp;rdquo;, façonnées par l&amp;rsquo;expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd&amp;rsquo;hui au conseil d&amp;rsquo;administration de la Société des Neurosciences, où il représente les neurosciences théoriques. Il intervient parfois dans le débat public (tribunes au Monde, interventions dans Slate, L&amp;rsquo;Express, ou Sciences et Vie) sur ce que les neurosciences disent des comportements, et ce qu&amp;rsquo;on leur fait parfois dire à tort. Un scientifique exerce forcément des effets sur la société dans laquelle il vit. Se prétendre apolitique ou neutre, c&amp;rsquo;est prendre position pour le statu quo. Il faut donc refuser les injonctions à l&amp;rsquo;auto-censure, qui entretiennent une confusion entre la neutralité politique (qui n&amp;rsquo;existe pas) et l&amp;rsquo;idéal d&amp;rsquo;objectivité de la démarche scientifique.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>À propos</title>
-      <link>http://localhost:1313/livre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/livre/</guid>
-      <description>&lt;p&gt;A venir, pour l&amp;rsquo;automne 2026.&lt;/p&gt;
-&lt;p&gt;Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com&lt;/p&gt;
-&lt;hr&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Courte bio :&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Jérémie Naudé est chargé de recherche au CNRS, à l&amp;rsquo;Institut de Génomique Fonctionnelle de Montpellier, où il co-animera (2027) l&amp;rsquo;équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  &amp;ldquo;cerveau-environnement&amp;rdquo;, façonnées par l&amp;rsquo;expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd&amp;rsquo;hui au conseil d&amp;rsquo;administration de la Société des Neurosciences, où il représente les neurosciences théoriques.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Billets</title>
       <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/</guid>
-      <description>&lt;h3 id=&#34;billets-de-blog-à-venir&#34;&gt;Billets de blog à venir.&lt;/h3&gt;
+      <description>&lt;p&gt;Cette section est dédiée à une expression personnelle (n&amp;rsquo;engage pas mon employeur le CNRS) mais tout de même basée sur mon expertise scientifique.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;initialement-publiés-comme-fils-sur-twitter&#34;&gt;Initialement publiés comme fils sur Twitter&lt;/h3&gt;
+&lt;h3 id=&#34;billets-de-blog-à-venir&#34;&gt;Billets de blog à venir.&lt;/h3&gt;
 &lt;hr&gt;</description>
     </item>
     <item>

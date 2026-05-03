@@ -3,11 +3,10 @@ title: "Billets"
 draft: false
 ShowReadingTime: false
 ---
-
-### Billets de blog à venir.
+Cette section est dédiée à une expression personnelle (n'engage pas mon employeur le CNRS) mais tout de même basée sur mon expertise scientifique.
 
 ---
 
-### Initialement publiés comme fils sur Twitter
+### Billets de blog à venir.
 
 ---
