@@ -7,7 +7,7 @@ ShowReadingTime: false
 
 I am a CNRS research fellow in the Synaptic Transmission Physiopathology team at the [Institute of Functional Genomics](https://www.igf.cnrs.fr/equipe-perroy) (Montpellier).
 
-![The team](/images/molecularmodel.png)
+![The team](/images/boucle_pro.png)
 
 How do decisions emerge from molecular interactions within neurons and synapses? This fundamental question remains unresolved, as it requires bridging a theoretical and methodological gap between three levels of organization: intracellular signaling pathways, the electrical dynamics of neural networks, and cognitive functions. Current approaches specialize in a single level: molecular neuroscience studies signaling in vitro, systems neuroscience records neural activity during behavior, and computational neuroscience models decisions using abstract algorithms. Each level of organization is approached with its own tools, vocabulary, and theories, making integration difficult. 
 In my work, I have developed dynamic and computational theories based on assemblies of neurons. These assemblies are constructed through synaptic plasticity and dynamically modulated. This framework provides a common language for linking the molecular, network, and cognitive levels.
