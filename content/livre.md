@@ -1,10 +1,9 @@
 ---
-title: "À cause du cerveau ?"
+title: "Neuro Arnaque"
 draft: false
 ShowReadingTime: false
+
 ---
-
-Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com
-
+Projet en cours : envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com
 ---
 

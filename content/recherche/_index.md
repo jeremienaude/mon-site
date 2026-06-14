@@ -5,7 +5,7 @@ ShowReadingTime: false
 ---
 Je suis chargé de recherche CNRS dans l'équipe Physiopathologie de la transmission synaptique à l'[Institut de Génomique Fonctionnelle](https://www.igf.cnrs.fr/equipe-perroy) (Montpellier).
 
-![L'équipe](/images/equipe.jpg)
+![L'équipe](/images/coupledmodel.png)
 
 Comment les décisions émergent-elles des interactions moléculaires dans les neurones et les synapses ? Cette question fondamentale reste non résolue, car elle nécessite de franchir un fossé théorique et méthodologique entre trois niveaux d'organisation : les voies de signalisation intracellulaire, la dynamique électrique des réseaux neuronaux, et les fonctions cognitives. Les approches actuelles se spécialisent sur un niveau : les neurosciences moléculaires étudient les signalisations in vitro, les neurosciences des systèmes enregistrent l'activité neuronale pendant les comportements, et les neurosciences computationnelles modélisent les décisions par des algorithmes abstraits. Chaque niveau d’organisation est approché avec ses propres outils, vocabulaires et théories, rendant l'intégration difficile. 
 Dans nos travaux, nous avons développé des théories dynamique et computationnelles, basées sur les assemblées de neurones. Ces assemblées sont construites par la plasticité synaptique et modulées dynamiquement. Ce cadre offre un langage commun pour relier les niveaux moléculaire, de réseau et cognitif.
