@@ -36,7 +36,7 @@ defaultContentLanguageInSubdirectory = false
     url = "/vulgarisation/"
     weight = 3
   [[languages.fr.menu.main]]
-    name = "À cause du cerveau ?"
+    name = "Neuro Arnaque"
     url = "/livre/"
     weight = 4
   [[languages.fr.menu.main]]
