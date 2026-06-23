@@ -6,22 +6,21 @@
     <description>Recent content in Accueil on Jérémie Naudé</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site internet</title>
+      <link>http://localhost:1313/news/lancement/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/lancement/</guid>
+      <description>Lancement du site v1</description>
+    </item>
     <item>
       <title>Site internet</title>
       <link>http://localhost:1313/news/test/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/news/test/</guid>
-      <description>Lancement du site :o</description>
-    </item>
-    <item>
-      <title>À cause du cerveau ?</title>
-      <link>http://localhost:1313/livre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/livre/</guid>
-      <description>&lt;p&gt;Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com&lt;/p&gt;
-&lt;hr&gt;</description>
+      <description>Brouillon du site :o</description>
     </item>
     <item>
       <title>À propos</title>
@@ -36,7 +35,7 @@
 &lt;ul&gt;
 &lt;li&gt;Courte bio :&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Jérémie Naudé est chargé de recherche au CNRS, à l&amp;rsquo;Institut de Génomique Fonctionnelle de Montpellier, où il co-animera (2027) l&amp;rsquo;équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  &amp;ldquo;cerveau-environnement&amp;rdquo;, façonnées par l&amp;rsquo;expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd&amp;rsquo;hui au conseil d&amp;rsquo;administration de la Société des Neurosciences, où il représente les neurosciences théoriques.&lt;/p&gt;</description>
+&lt;p&gt;Jérémie Naudé est chargé de recherche au CNRS, à l&amp;rsquo;Institut de Génomique Fonctionnelle de Montpellier, où il co-anime l&amp;rsquo;équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  &amp;ldquo;cerveau-environnement&amp;rdquo;, façonnées par l&amp;rsquo;expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd&amp;rsquo;hui au conseil d&amp;rsquo;administration de la Société des Neurosciences, où il représente les neurosciences théoriques.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Billets</title>
@@ -59,19 +58,29 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;conférences-grand-public&#34;&gt;Conférences grand public&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;2017-2021 : Comité d’organisation d’Ile-de-France de la Semaine du Cerveau&lt;/li&gt;
+&lt;li&gt;2026 : &amp;ldquo;QI, testostérone, et IRM : ce que les neurosciences disent vraiment sur le sexe, la race ou l&amp;rsquo;intelligence&amp;rdquo;; organisé par le RéSo de l&amp;rsquo;Université de Montpellier.&lt;/li&gt;
+&lt;li&gt;2017-2021 : Comité d’organisation d’Ile-de-France de la Semaine du Cerveau.&lt;/li&gt;
 &lt;li&gt;2018-2020 : Animations scientifiques à la Cité des Sciences (Semaine du Cerveau).&lt;/li&gt;
 &lt;li&gt;2018 : Cerveau sous influence : exposition à l&amp;rsquo;ESPCI.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;interventions-scolaires&#34;&gt;Interventions scolaires&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Interventions en collège · Dopamine et addiction · Semaine du Cerveau Montpellier&lt;/li&gt;
-&lt;li&gt;Interventions en collège et lycées · Dopamine et addiction · Semaine du Cerveau Paris&lt;/li&gt;
-&lt;li&gt;Interventions en primaire · La &amp;ldquo;valise du cerveau&amp;rdquo; · Semaine du Cerveau Montpellier&lt;/li&gt;
+&lt;li&gt;Interventions en collège · Dopamine et addiction · Semaine du Cerveau Montpellier.&lt;/li&gt;
+&lt;li&gt;Interventions en collège et lycées · Dopamine et addiction · Semaine du Cerveau Paris.&lt;/li&gt;
+&lt;li&gt;Interventions en primaire · La &amp;ldquo;valise du cerveau&amp;rdquo; · Semaine du Cerveau Paris.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;une-demande-de-conférence-ou-de-rencontre-&#34;&gt;Une demande de conférence ou de rencontre ?&lt;/h3&gt;
 &lt;p&gt;jeremie.naude at igf.cnrs.fr&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neuro Arnaque</title>
+      <link>http://localhost:1313/livre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/livre/</guid>
+      <description>&lt;p&gt;Projet en cours!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;envoyez-moi-un-mail-pour-être-prévenue--jeremienaude-at-gmailcom&#34;&gt;Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

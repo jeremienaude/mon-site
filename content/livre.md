@@ -8,6 +8,6 @@ Projet en cours!
 
 
 ---
-Envoyez-moi un mail pour être prévenu·e : jeremie.naude at gmail.com
+Envoyez-moi un mail pour être prévenu·e : jeremie.naude@gmail.com
 ---
 

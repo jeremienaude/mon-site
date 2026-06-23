@@ -4,6 +4,9 @@ draft: false
 ShowReadingTime: false
 
 ---
+### Articles clés
+
+- Sur la "Dopamine Detox", impossible et nocive : [lire ↗](https://theconversation.com/pourquoi-vous-ne-pouvez-pas-faire-de-detox-de-dopamine-283229)
 
 ### Communiqués de Presse
 - Sur les mécanismes de spécialisation sociale liés à la dopamine : [lire ↗](https://www.cnrs.fr/fr/presse/le-role-social-des-individus-nest-ni-predestine-ni-fige)
@@ -32,6 +35,8 @@ ShowReadingTime: false
 ### Expertise & décryptage
 
 - Sur le rôle de la dopamine dans la formation des habitudes : [lire ↗](https://www.lemonde.fr/sciences/article/2025/05/26/comment-le-cerveau-construit-des-habitudes_6608628_1650684.html)
+
+- Sur le vocabulaire "cognitif" honteusement détourné pour nier ce que vivent les malades du Covid long : [lire ↗](https://www.liberation.fr/societe/sante/non-le-yoga-nest-pas-la-solution-au-covid-long-20260507_VWGHWM6JTZGGPHV3BQFX2LAJ54/)
 
 - Sur la dopamine detox : [lire ↗](https://www.lexpress.fr/sciences-sante/dopamine-detox-jeune-numerique-la-privation-des-plaisirs-immediats-nous-fait-elle-vraiment-du-bien-5YEWIYCPBBFBVLXJCAHPAFNBZA/)
 

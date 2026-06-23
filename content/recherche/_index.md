@@ -30,7 +30,7 @@ Décider quand agir est aussi important que décider quoi faire. Les neurones co
 *Financement ANR en collaboration avec Bruno Delord (Paris) et Stéphanie Trouche (Montpellier).*
 
 **Décisions sociales, MITI 80PRIME CNRS**
-Les décisions conjointent intègrent les attentes concernant les décisions de l'autre. Il nous reste à découvrir comment les récompenses et les efforts des autres sont représentés dans le cerveau, et comment ils influencent causalement le comportement. Pour le découvrir, nous développons une nouvelle tâche sociale chez la souris (une sorte de jeu collaboratif à deux) et des modèles théoriques des décisions conjointes.
+Les décisions conjointes intègrent les attentes concernant les décisions de l'autre. Il nous reste à découvrir comment les récompenses et les efforts des autres sont représentés dans le cerveau, et comment ils influencent causalement le comportement. Pour le découvrir, nous développons une nouvelle tâche sociale chez la souris (une sorte de jeu collaboratif à deux) et des modèles théoriques des décisions conjointes.
 
 *Financement 80PRIME avec Marwen Belkaid (Cergy U.)*
 
