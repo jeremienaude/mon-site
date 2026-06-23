@@ -8,7 +8,10 @@ ShowReadingTime: false
 
 - Sur la "Dopamine Detox", impossible et nocive : [lire ↗](https://theconversation.com/pourquoi-vous-ne-pouvez-pas-faire-de-detox-de-dopamine-283229)
 
+---
+
 ### Communiqués de Presse
+
 - Sur les mécanismes de spécialisation sociale liés à la dopamine : [lire ↗](https://www.cnrs.fr/fr/presse/le-role-social-des-individus-nest-ni-predestine-ni-fige)
 
 - Comment les neurones du striatum participent à générer des profils de décisions : [lire ici ↗](https://actus.ulb.be/fr/actus/recherche/comment-des-neurones-influencent-nos-decisions) et [lire aussi ↗](https://www.igf.cnrs.fr/comment-le-striatum-affecte-les-prises-de-decisions/)
@@ -22,6 +25,7 @@ ShowReadingTime: false
 ---
 
 ### Podcast, Radio ou Vidéos
+
 - Un format long où j'explique notre théories sur les rôles de la dopamine dans l'apprentissage et les décisions (Naudé al. 2024, Nature Communications) : [écouter ↗](https://www.umontpellier.fr/articles/a-lum-la-science-s04-ep16-les-plans-caches-de-la-dopamine)
 
 
@@ -47,6 +51,7 @@ ShowReadingTime: false
 ---
 
 ### Tribunes & prises de position
+
 - Sur les explications de la crise climatique à base de striatum (du type "le Bug Humain") : [lire ↗](https://www.lemonde.fr/sciences/article/2022/07/07/pourquoi-detruit-on-la-planete-les-dangers-des-explications-pseudo-scientifiques_6133775_1650684.html) ou en version longue et gratuite : [lire ↗](https://blogs.mediapart.fr/atelier-decologie-politique-de-toulouse/blog/070722/pourquoi-detruit-la-planete-les-dangers-des-explications-pseudo-neurosc)
 
 - Sur la métaphore "darwinienne" de la politique des sciences : [lire ↗](https://www.lemonde.fr/idees/article/2019/12/06/le-darwinisme-social-applique-a-la-recherche-est-une-absurdite_6021868_3232.html)
