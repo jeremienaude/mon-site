@@ -14,6 +14,10 @@ ShowReadingTime: false
 
 ### Sélection récente
 
+**Orbitofrontal noradrenaline mediates volatility-dependent adjustment of learning rate** · *PNAS* · 2026 · Plat H. et al. ·
+How does the brain know whether to change its strategy… or simply accept a stroke of bad luck? We suggest that norepinephrine in the orbitofrontal cortex distinguishes noise from genuine change.
+[lire ↗](https://www.pnas.org/doi/10.1073/pnas.2536535123)
+
 **Dopaminergic mechanisms of dynamical social specialization** · *Nature* · 2025
 Solié C., et al.
 We have shown that the brains of mice in groups adapt to the social roles they assume: the group experience shapes both behavior and individual brain activity.
@@ -29,11 +33,6 @@ attractors** · *Nature Communications* · 2024
 Naudé J. et al.
 We have developed a new theoretical framework, latent attractors, which explains how dopamine promotes the generation of a learned action. We experimentally tested the predictions of this theory using optogenetics.
 [read ↗](https://www.nature.com/articles/s41467-024-53976-x)
-
-**A response to claims of emergent intelligence and sentience in a
-dish** · *Neuron* · 2023
-Balci, F., et al.
-Together with an international consortium of neuroscientists and philosophers, we refute the article claiming that a culture of neurons “played Pong.” [read ↗](https://www.cell.com/neuron/fulltext/S0896-6273(23)00113-7)
 
 **Dopaminergic and prefrontal dynamics co-determine mouse decisions in a spatial gambling task** · *Cell Reports* · 2023
 Bousseyrol, E., Didienne S. et al.
