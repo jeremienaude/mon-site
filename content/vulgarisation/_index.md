@@ -12,6 +12,9 @@ ShowReadingTime: false
 
 ### Communiqués de Presse
 
+- Sur la façon dont le cerveau (et la noradrénaline en particulier) s’adapte face à l’incertitude ?
+https://www.cnrs.fr/fr/presse/comment-le-cerveau-sadapte-t-il-face-lincertitude
+
 - Sur les mécanismes de spécialisation sociale liés à la dopamine : [lire ↗](https://www.cnrs.fr/fr/presse/le-role-social-des-individus-nest-ni-predestine-ni-fige)
 
 - Comment les neurones du striatum participent à générer des profils de décisions : [lire ici ↗](https://actus.ulb.be/fr/actus/recherche/comment-des-neurones-influencent-nos-decisions) et [lire aussi ↗](https://www.igf.cnrs.fr/comment-le-striatum-affecte-les-prises-de-decisions/)
