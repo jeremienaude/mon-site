@@ -13,7 +13,7 @@ hidemeta: true
 
 - Courte bio :
 
-Jérémie Naudé est chargé de recherche au CNRS, à l'Institut de Génomique Fonctionnelle de Montpellier, où il co-anime l'équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, il combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Ses recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  "cerveau-environnement", façonnées par l'expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, il siège aujourd'hui au conseil d'administration de la Société des Neurosciences, où il représente les neurosciences théoriques. 
+Je suis chargé de recherche au CNRS, à l'Institut de Génomique Fonctionnelle de Montpellier, où je co-anime l'équipe « Physiopathologie de la plasticité neuronale » avec Julie Perroy. Formé en neurosciences computationnelles à Sorbonne Université, je combine modélisation mathématique, électrophysiologie et optogénétique pour étudier comment le cerveau apprend et décide. Mes recherches sur la dopamine et le cortex préfrontal défendent un cadre théorique original, celui des « attracteurs latents », selon lequel les comportements émergent des boucles de rétroaction  "cerveau-environnement", façonnées par l'expérience et modulées par le contexte. Élu au Comité national du CNRS de 2022 à 2025, je siège aujourd'hui au conseil d'administration de la Société des Neurosciences, où je représente les neurosciences computationnelles et théoriques. 
 
 ---
 - Positionnement :
