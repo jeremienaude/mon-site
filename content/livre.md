@@ -4,9 +4,12 @@ draft: false
 ShowReadingTime: false
 ---
 
----
-Mon livre *Neuro-arnaque*, sort chez Textuel le 7 octobre 2026; 207 pages; 19,90 euros. 
----
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
+  <img src="/images/JN LIVRE 1.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; flex-shrink: 0;" />
+  <h3 style="margin: 0;"> Mon livre *Neuro arnaque*, sort chez Textuel le 7 octobre 2026. 
+</h3>
+</div>
+
 
 ## De quoi parle ce livre ?
 
@@ -79,6 +82,6 @@ La prochaine fois qu'on vous expliquera qu'un problème de société tient à la
 
 ---
 
-*Neuro-arnaque*, [Textuel], [collection], parution le 7 octobre 2026, [nombre] pages, [prix].
+*Neuro arnaque*, Textuel, parution le 7 octobre 2026, 207 pages, 19,90 euros.
 
 
