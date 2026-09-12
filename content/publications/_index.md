@@ -20,8 +20,7 @@ Comment le cerveau sait-il s'il doit changer de stratégie… ou simplement enca
 
 **Dopaminergic mechanisms of dynamical social specialization** · *Nature* · 2026 ·
 Solié C., et al.·
-Nous avons montré que le cerveau de souris en groupe s'adapte au rôle social adopté : l'expérience du groupe façonne à la fois le comportement et l’activité
-cérébrale individuelle.
+Nous avons montré que le cerveau de souris en groupe s'adapte au rôle social adopté : l'expérience du groupe façonne à la fois le comportement et l’activité cérébrale individuelle.
 [lire ↗](https://www.nature.com/articles/s41586-026-10301-4)
 
 **Direct and indirect striatal projecting neurons exert strategy-dependent effects on decision-making** · *Science Advances* · 2025·

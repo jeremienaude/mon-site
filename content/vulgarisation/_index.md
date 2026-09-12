@@ -12,8 +12,8 @@ ShowReadingTime: false
 
 ### Communiqués de Presse
 
-- Sur la façon dont le cerveau (et la noradrénaline en particulier) s’adapte face à l’incertitude ?
-https://www.cnrs.fr/fr/presse/comment-le-cerveau-sadapte-t-il-face-lincertitude
+- Sur la façon dont le cerveau (et la noradrénaline en particulier) s’adapte face à l’incertitude :
+[lire ↗](https://www.cnrs.fr/fr/presse/comment-le-cerveau-sadapte-t-il-face-lincertitude)
 
 - Sur les mécanismes de spécialisation sociale liés à la dopamine : [lire ↗](https://www.cnrs.fr/fr/presse/le-role-social-des-individus-nest-ni-predestine-ni-fige)
 
