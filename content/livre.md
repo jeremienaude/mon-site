@@ -6,7 +6,7 @@ ShowReadingTime: false
 
 <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
   <img src="/images/JN LIVRE 1.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; flex-shrink: 0;" />
-  <h3 style="margin: 0;"> Mon livre Neuro arnaque, sort chez Textuel le 7 octobre 2026. 
+  <h3 style="margin: 0;"> Mon livre, Neuro arnaque, sort chez Textuel le 7 octobre 2026. 
 </h3>
 </div>
 
@@ -27,7 +27,7 @@ J'identifie donc le même pattern dans des registres très différents: la vulga
 
 Non, et j'explique pourquoi cette réponse est mauvaise.
 
-Face aux expications biologisantes erronées, une riposte courante consiste à sortir la biologie du débat : les comportements humains seraient sociaux, pas biologiques. Cette position met ses défenseurs en situation de nier ce que tout le monde constate. Nous avons un cerveau, un génome, et nous sommes le produit de l'évolution, ce qui contraint dans une certaine mesure ce que nous faisons.
+Face aux explications biologisantes erronées, une riposte courante consiste à sortir la biologie du débat : les comportements humains seraient sociaux, pas biologiques. Cette position met ses défenseurs en situation de nier ce que tout le monde constate. Nous avons un cerveau, un génome, et nous sommes le produit de l'évolution, ce qui contraint dans une certaine mesure ce que nous faisons.
 
 La position anti-biologie coûte très cher : laisser le terrain de la biologie aux seuls essentialistes leur accorde le monopole du sérieux scientifique dans l'espace public, et leur permet de dire qu'eux parleraient de science, pendant que leurs contradicteurs feraient juste de l'idéologie. À ce jeu, ils gagnent, non parce qu'ils ont raison, mais parce que le public ne veut pas d'une position qui semble ignorer le corps et le cerveau.
 
@@ -45,19 +45,19 @@ Or dès lors que le problème politique est identifié comme provenant d'un rég
 
 ## En quoi ces théories font-elles le jeu des politiques réactionnaires ?
 
-Les cadres scientifiques circulent indépendamment des intentions de ceux qui les produisent. Les auteurs examinés dans ce livre ne se revendiquent pas tous comme conservateurs, et la question n'est pas de deviner ce qu'ils pensent. Mais une théorie du comportement est une carte, une carte qui ouvre certaines possiblités d'actions et en ferme d'autres. À ce titre, aucune théorie du comportement n'est politiquement neutre.
+Les cadres scientifiques circulent indépendamment des intentions de ceux qui les produisent. Les auteurs examinés dans ce livre ne se revendiquent pas tous comme conservateurs, et la question n'est pas de deviner ce qu'ils pensent. Mais une théorie du comportement est une carte, une carte qui ouvre certaines possibilités d'actions et en ferme d'autres. À ce titre, aucune théorie du comportement n'est politiquement neutre.
 
-Les réactionnaires soustraient l'ordre social à la délibération démocratique en le naturalisant. F. Hayek lui-même décrivait l'idéal d'égalité comme un atavisme ancestral qu'il fallait discipliner. Chez ses successeurs, le marché devient un ordre spontané indépassable, et les hiérarchies sociales l'expression de différences biologiques profondes. Cette opération de naturlisation de choix politiques a besoin d'une caution scientifique, et il y a bien des auteurs qui fournissent cette caution, indépendamment des intentions affichées.
+Les réactionnaires soustraient l'ordre social à la délibération démocratique en le naturalisant. F. Hayek lui-même décrivait l'idéal d'égalité comme un atavisme ancestral qu'il fallait discipliner. Chez ses successeurs, le marché devient un ordre spontané indépassable, et les hiérarchies sociales l'expression de différences biologiques profondes. Cette opération de naturalisation de choix politiques a besoin d'une caution scientifique, et il y a bien des auteurs qui fournissent cette caution, indépendamment des intentions affichées.
 
-L'énoncé pseudo-scientifique lui-même, s'est paré de nouveaux habits, moins suspects que le déterminisme simpliste. Le vieux "la nature humaine rend ce changement social impossible" ne se dit plus, parce qu'il se réfute trop facilement. On lui préfère des formules à l'apparence technique : ce changement serait trop coûteux, biologiquement invraisemblable, ou simplement, pas optimal. La conclusion politique reste la même, mais elle se présente désormais comme un constat neutre, plutôt que comme une position politique, ce qui la dispense d'être discutée.
+L'énoncé pseudo-scientifique lui-même s'est paré de nouveaux habits, moins suspects que le déterminisme simpliste. Le vieux "la nature humaine rend ce changement social impossible" ne se dit plus, parce qu'il se réfute trop facilement. On lui préfère des formules à l'apparence technique : ce changement serait trop coûteux, biologiquement invraisemblable, ou simplement, pas optimal. La conclusion politique reste la même, mais elle se présente désormais comme un constat neutre, plutôt que comme une position politique, ce qui la dispense d'être discutée.
 
 Ce glissement s'appuie sur une biologie figée, réduite à des biomarqueurs et à des mécanismes psychologiques donnés pour définitifs. C'est dans ce cadre que prennent leur cohérence le retour de l'obsession pour le QI, la résurgence des sciences raciales et les attaques contre les personnes trans. Une biologie rigide ne sert d'ailleurs pas seulement à hiérarchiser les races ou les sexes : elle définit aussi qui serait fonctionnel, qui mériterait des ressources publiques, et qui coûterait trop cher. C'est déjà un impensé eugéniste. 
 
-D'où le problème que pose la stratégie qui consisterait laisser la biologie aux seuls essentialistes, et à leur en céder l'usage dans le débat public.
+D'où le problème que pose la stratégie qui consisterait à laisser la biologie aux seuls essentialistes, et à leur en céder l'usage dans le débat public.
 
 ## Pourquoi nommer les auteurs critiqués ?
 
-Parce qu'une critique de "certains discours" qui reste floue ne se vérifie pas. Les thèses examinées ici ont été publiées, elles sont citées avec leurs références, et le lectorat peut aller voir et comparer. Cela évite d'attaquer des "hommes de paille" : dans ce livre, je discute des thèses réelles, dans leur version forte, avant des les réfuter.
+Parce qu'une critique de "certains discours" qui reste floue ne se vérifie pas. Les thèses examinées ici ont été publiées, elles sont citées avec leurs références, et le lectorat peut aller voir et comparer. Cela évite d'attaquer des "hommes de paille" : dans ce livre, je discute des thèses réelles, dans leur version forte, avant de les réfuter.
 
 Le livre distingue ainsi deux niveaux. Les vulgarisateurs simplifient, et les chercheurs dont ils s'inspirent ne sont pas responsables de ces simplifications. Mais les uns et les autres partagent le même présupposé des "invariants cognitifs", et ce présupposé est l'objet du livre. Le problème dont je parle n'est donc pas qu'une idée soit simplifiée, mais l'idée même d'une cognition rigide.
 
