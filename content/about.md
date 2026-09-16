@@ -18,7 +18,7 @@ Je suis chargé de recherche au CNRS, à l'Institut de Génomique Fonctionnelle 
 ---
 - Positionnement :
 
-Je refuse les injonctions à l'auto-censure, qui entretiennent une confusion entre la neutralité politique (qui n'existe pas : se prétendre neutre c'est défendre le statu quo) et l'idéal d'objectivité de la démarche scientifique. J'interviens donc parfois dans le débat public (tribunes au Monde, interventions dans Slate, L'Express, ou Sciences et Vie) sur ce que les neurosciences disent des comportements, et ce qu'on leur fait parfois dire à tort. Je suis aussi actif sur [Bluesky](https://bsky.app/profile/jeremie-n.bsky.social) et plus récemment [Instagram](https://www.instagram.com/jeremie.naude/) . Ces prises de paroles n'engagent évidemment pas mon employeur (le CNRS).
+Je refuse les injonctions à l'auto-censure, qui entretiennent une confusion entre la neutralité politique (qui n'existe pas : se prétendre neutre c'est défendre le statu quo) et l'idéal d'objectivité de la démarche scientifique. J'interviens donc parfois dans le débat public (tribunes au Monde, interventions dans Slate, L'Express, ou Sciences et Vie) sur ce que les neurosciences disent des comportements, et ce qu'on leur fait parfois dire à tort. Je suis aussi actif sur [Bluesky](https://bsky.app/profile/jeremie-n.cpesr.fr) et plus récemment [Instagram](https://www.instagram.com/jeremie.naude/) . Ces prises de paroles n'engagent évidemment pas mon employeur (le CNRS).
 
 
 ---
