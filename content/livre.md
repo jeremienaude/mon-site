@@ -10,6 +10,13 @@ ShowReadingTime: false
 </h3>
 </div>
 
+### Ils en parlent
+
+- **La Recherch** · « Neuro arnaque » · Automne 2026 · [lire ↗](https://www.larecherche.fr/livres/neuro-arnaque)
+- **RTBF La Première** · Tendances Premières, le dossier Les neuro-arnaques: comment le « c'est à cause du cerveau » transforme des problèmes collectifs en problèmes individuels · 5 octobre 2026 · [écouter ↗](https://auvio.rtbf.be/media/tendances-premiere-tendances-premiere-le-dossier-3523729)
+
+---
+
 
 ## De quoi parle ce livre ?
 
@@ -80,6 +87,7 @@ La mise en garde vaut aussi pour ce cadre-là, évidemment. La plasticité neuro
 En lisant mon livre, la prochaine fois qu'on vous expliquera qu'un problème de société tient à la nature invariante du cerveau, vous saurez vers quoi regarder : ce qui a creusé cette façon de penser et de désirer (l'attracteur), et ce qui pourrait le façonner autrement.
 
 ---
+
 
 *Neuro arnaque*, Textuel, parution le 7 octobre 2026, 207 pages, 19,90 euros.
 
