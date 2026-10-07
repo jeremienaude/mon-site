@@ -12,11 +12,13 @@ ShowReadingTime: false
 
 ### Ils en parlent
 
-- **La Recherch** · « Neuro arnaque » · Automne 2026 · [lire ↗](https://www.larecherche.fr/livres/neuro-arnaque)
+
+- **France Culture** · La Science, CQFD · 7 octobre 2026 · [écouter ↗](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/sommes-nous-tous-accros-aux-mythes-sur-le-cerveau-2571220)
+- **Midi Libre** · Non, vous n’avez pas un cerveau de chasseur-cueilleur, ni d’addiction à la dopamine · 7 octobre 2026 · [lire ↗](https://www.midilibre.fr/2026/10/07/non-vous-navez-pas-un-cerveau-de-chasseur-cueilleur-ni-daddiction-a-la-dopamine-et-ce-chercheur-montpellierain-vous-explique-pourquoi-13574764.php)
+- **La Recherche** · « Neuro arnaque » · Automne 2026 · [lire ↗](https://www.larecherche.fr/livres/neuro-arnaque)
 - **RTBF La Première** · Tendances Premières, le dossier Les neuro-arnaques: comment le « c'est à cause du cerveau » transforme des problèmes collectifs en problèmes individuels · 5 octobre 2026 · [écouter ↗](https://auvio.rtbf.be/media/tendances-premiere-tendances-premiere-le-dossier-3523729)
 
 ---
-
 
 ## De quoi parle ce livre ?
 
