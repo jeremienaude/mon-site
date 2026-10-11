@@ -12,7 +12,8 @@ ShowReadingTime: false
 
 ### Ils en parlent
 
-
+- **Le Monde** · Entretien avec Hervé Morin et Stéphane Foucart · 10 octobre 2026 · [lire ↗](https://www.lemonde.fr/sciences/article/2026/10/10/jeremie-naude-neuroscientifique-certains-discours-ne-tentent-pas-de-decrire-le-vivant-mais-cherchent-a-le-discipliner_6791013_1650684.html)
+- **Le Temps** · Entretien avec Aurélie Coulon · 10 octobre 2026 · [lire ↗](https://www.letemps.ch/sciences/sciences-de-la-vie/jeremie-naude-neurobiologiste-les-mythes-sur-le-cerveau-servent-de-caution-a-une-vision-reactionnaire-de-l-etre-humain)
 - **France Culture** · La Science, CQFD · 7 octobre 2026 · [écouter ↗](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/sommes-nous-tous-accros-aux-mythes-sur-le-cerveau-2571220)
 - **Midi Libre** · Non, vous n’avez pas un cerveau de chasseur-cueilleur, ni d’addiction à la dopamine · 7 octobre 2026 · [lire ↗](https://www.midilibre.fr/2026/10/07/non-vous-navez-pas-un-cerveau-de-chasseur-cueilleur-ni-daddiction-a-la-dopamine-et-ce-chercheur-montpellierain-vous-explique-pourquoi-13574764.php)
 - **La Recherche** · « Neuro arnaque » · Automne 2026 · [lire ↗](https://www.larecherche.fr/livres/neuro-arnaque)

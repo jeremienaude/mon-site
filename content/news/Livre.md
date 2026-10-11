@@ -1,6 +1,6 @@
 ---
 title: "Sortie de mon livre Neuro Arnaque"
-date: 2026-07-10
+date: 2026-10-07
 summary: "Neuro Arnaque est sorti chez Textuel, et est disponible en librairies"
 draft: false
 ---
