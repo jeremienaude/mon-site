@@ -55,6 +55,8 @@ ShowReadingTime: false
 
 ### Tribunes & prises de position
 
+- Analyse de la  caution savante donnée à l’offensive contre les sciences humaines et sociales accusées de « wokisme », un poiège tactique qui se referme sur toutes les sciences, des USA à la France en passant par l'Argentine et la Hongrie. [lire ↗](https://aoc.media/opinion/2026/10/29/defendre-les-shs-une-necessite-pour-tous-les-scientifiques/)
+
 - Sur les explications de la crise climatique à base de striatum (du type "le Bug Humain") : [lire ↗](https://www.lemonde.fr/sciences/article/2022/07/07/pourquoi-detruit-on-la-planete-les-dangers-des-explications-pseudo-scientifiques_6133775_1650684.html) ou en version longue et gratuite : [lire ↗](https://blogs.mediapart.fr/atelier-decologie-politique-de-toulouse/blog/070722/pourquoi-detruit-la-planete-les-dangers-des-explications-pseudo-neurosc)
 
 - Sur la métaphore "darwinienne" de la politique des sciences : [lire ↗](https://www.lemonde.fr/idees/article/2019/12/06/le-darwinisme-social-applique-a-la-recherche-est-une-absurdite_6021868_3232.html)

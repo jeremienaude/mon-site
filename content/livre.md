@@ -14,6 +14,7 @@ ShowReadingTime: false
 
 ### Ils en parlent
 
+- **The MetaNews** Entretien avec Laurent Simon « La plupart des collègues sont horrifiés par la récupération de leurs travaux » · 30 octobre 2026 · [lire ↗](https://themeta.news/interview-jeremie-naude-30-octobre-2026/)
 - **Sciences et Avenir** Sélection de livres de la rentrée · 24 octobre 2026 · [lire ↗](https://www.sciencesetavenir.fr/decouvrir/exercer-son-esprit-critique-avec-la-selection-de-livres-de-sciences-et-avenir_195020)
 - **Le Monde** · Entretien avec Hervé Morin et Stéphane Foucart · 10 octobre 2026 · [lire ↗](https://www.lemonde.fr/sciences/article/2026/10/10/jeremie-naude-neuroscientifique-certains-discours-ne-tentent-pas-de-decrire-le-vivant-mais-cherchent-a-le-discipliner_6791013_1650684.html)
 - **Le Temps** · Entretien avec Aurélie Coulon · 10 octobre 2026 · [lire ↗](https://www.letemps.ch/sciences/sciences-de-la-vie/jeremie-naude-neurobiologiste-les-mythes-sur-le-cerveau-servent-de-caution-a-une-vision-reactionnaire-de-l-etre-humain)
