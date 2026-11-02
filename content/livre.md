@@ -16,12 +16,12 @@ ShowReadingTime: false
 
 - **The MetaNews** · Entretien avec Laurent Simon · 30 octobre 2026 · « La plupart des collègues sont horrifiés par la récupération de leurs travaux » [lire ↗](https://themeta.news/interview-jeremie-naude-30-octobre-2026/)
 - **Sciences et Avenir** Sélection de livres de la rentrée · 24 octobre 2026 · [lire ↗](https://www.sciencesetavenir.fr/decouvrir/exercer-son-esprit-critique-avec-la-selection-de-livres-de-sciences-et-avenir_195020)
-- **Le Monde** · Entretien avec Hervé Morin et Stéphane Foucart · 10 octobre 2026 · [lire ↗](https://www.lemonde.fr/sciences/article/2026/10/10/jeremie-naude-neuroscientifique-certains-discours-ne-tentent-pas-de-decrire-le-vivant-mais-cherchent-a-le-discipliner_6791013_1650684.html)
-- **Le Temps** · Entretien avec Aurélie Coulon · 10 octobre 2026 · [lire ↗](https://www.letemps.ch/sciences/sciences-de-la-vie/jeremie-naude-neurobiologiste-les-mythes-sur-le-cerveau-servent-de-caution-a-une-vision-reactionnaire-de-l-etre-humain)
-- **France Culture** · La Science, CQFD · 7 octobre 2026 · [écouter ↗](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/sommes-nous-tous-accros-aux-mythes-sur-le-cerveau-2571220)
+- **Le Monde** · Entretien avec Hervé Morin et Stéphane Foucart · « Certains discours ne tentent pas de décrire le vivant, mais cherchent à le discipliner » · 10 octobre 2026 · [lire ↗](https://www.lemonde.fr/sciences/article/2026/10/10/jeremie-naude-neuroscientifique-certains-discours-ne-tentent-pas-de-decrire-le-vivant-mais-cherchent-a-le-discipliner_6791013_1650684.html)
+- **Le Temps** · Entretien avec Aurélie Coulon · «Les mythes sur le cerveau servent de caution à une vision réactionnaire de l’être humain · 10 octobre 2026 · [lire ↗](https://www.letemps.ch/sciences/sciences-de-la-vie/jeremie-naude-neurobiologiste-les-mythes-sur-le-cerveau-servent-de-caution-a-une-vision-reactionnaire-de-l-etre-humain)
+- **France Culture** · La Science, CQFD · Sommes-nous accros aux mythes sur le cerveau ? · 7 octobre 2026 · [écouter ↗](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/sommes-nous-tous-accros-aux-mythes-sur-le-cerveau-2571220)
 - **Midi Libre** · Non, vous n’avez pas un cerveau de chasseur-cueilleur, ni d’addiction à la dopamine · 7 octobre 2026 · [lire ↗](https://www.midilibre.fr/2026/10/07/non-vous-navez-pas-un-cerveau-de-chasseur-cueilleur-ni-daddiction-a-la-dopamine-et-ce-chercheur-montpellierain-vous-explique-pourquoi-13574764.php)
 - **La Recherche** · « Neuro arnaque » · Automne 2026 · [lire ↗](https://www.larecherche.fr/livres/neuro-arnaque)
-- **RTBF La Première** · Tendances Premières, le dossier Les neuro-arnaques: comment le « c'est à cause du cerveau » transforme des problèmes collectifs en problèmes individuels · 5 octobre 2026 · [écouter ↗](https://auvio.rtbf.be/media/tendances-premiere-tendances-premiere-le-dossier-3523729)
+- **RTBF La Première** · Tendances Premières, le dossier. Les neuro-arnaques: comment le « c'est à cause du cerveau » transforme des problèmes collectifs en problèmes individuels · 5 octobre 2026 · [écouter ↗](https://auvio.rtbf.be/media/tendances-premiere-tendances-premiere-le-dossier-3523729)
 
 ---
 

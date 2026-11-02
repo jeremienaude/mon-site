@@ -45,6 +45,8 @@ ShowReadingTime: false
 
 - Sur le vocabulaire "cognitif" honteusement détourné pour nier ce que vivent les malades du Covid long : [lire ↗](https://www.liberation.fr/societe/sante/non-le-yoga-nest-pas-la-solution-au-covid-long-20260507_VWGHWM6JTZGGPHV3BQFX2LAJ54/)
 
+- Sur l'utilisation des données de génomique par les pseudo-scientifiques racistes : [lire ↗](https://next.ink/223756/les-donnees-biologiques-de-20-000-enfants-recuperees-par-des-pseudo-scientifiques-racistes/)
+
 - Sur la dopamine detox : [lire ↗](https://www.lexpress.fr/sciences-sante/dopamine-detox-jeune-numerique-la-privation-des-plaisirs-immediats-nous-fait-elle-vraiment-du-bien-5YEWIYCPBBFBVLXJCAHPAFNBZA/)
 
 - Sur le stress : [lire ↗](https://www.slate.fr/story/234232/meditation-ecole-pleine-conscience-debat-pour-contre-danger-enfant-apprentissage)
